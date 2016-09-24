@@ -9,3 +9,9 @@ body {
   left: 5%;
   position: absolute;
 }
+
+footer a {
+  text-decoration: none;
+  color: #eee;
+  border-bottom: 1px dotted #eee;
+}
