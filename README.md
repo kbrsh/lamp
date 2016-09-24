@@ -1,0 +1,3 @@
+# Lamp
+
+a lavalamp
